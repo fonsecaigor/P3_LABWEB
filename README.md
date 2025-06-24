@@ -17,6 +17,8 @@ Uma aplicação React simples e funcional para organização de tarefas agrupada
 
 ```bash
 src/
+├── assets/
+│   ├── projeto.png         # Imagem do projeto web
 ├── components/
 │   ├── AddCategory.js      # Formulário para criar nova categoria
 │   ├── AddTask.js          # Formulário para adicionar tarefa à categoria
@@ -33,8 +35,8 @@ src/
 bash
 Copy
 Edit
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/fonsecaigor/P3_LABWEB.git
+cd Gerenciador
 
 2. Instale as dependências
 bash
@@ -64,7 +66,7 @@ A aplicação foi desenvolvida com base no paradigma de componentes funcionais d
 
 📌 Objetivo Acadêmico
 
-Este projeto foi desenvolvido como parte da disciplina Laboratório de Desenvolvimento Web da Faculdade de Tecnologia de Jacareí — FATEC. Seu propósito é demonstrar o uso prático de React.js com foco em gerenciamento de estado e componentização.
+Este projeto foi desenvolvido como última prova do semestre da disciplina Laboratório de Desenvolvimento Web da Faculdade de Tecnologia de Jacareí — FATEC. Seu propósito é demonstrar o uso prático de React.js com foco em gerenciamento de estado e componentização.
 
 📸 Exemplo de uso
 
